@@ -1,0 +1,31 @@
+{
+	"endOfLine": "lf",
+	"charset": "utf-8",
+	"trimTrailingWhitespace": true,
+	"insertFinalNewline": true,
+	"overrides": [
+		{
+			"files": ["*.json", "*.css"],
+			"options": {
+				"indentStyle": "tab",
+				"indentSize": 2
+			}
+		},
+		{
+			"files": ["*.[js,mjs]"],
+			"options": {
+				"maxLineLength": 80,
+				"indentStyle": "tab",
+				"indentSize": 2
+			}
+		},
+		{
+			"files": ["*.md"],
+			"options": {
+				"trimTrailingWhitespace": false,
+				"indentStyle": "space",
+				"indentSize": 2
+			}
+		}
+	]
+}

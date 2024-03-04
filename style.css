@@ -1,0 +1,15 @@
+/* Example Styles - Replace or Skip */
+
+/* Replace the following styles with your own code,
+ or skip this file if you don't need it in your project.*/
+
+* {
+	text-align: right;
+}
+button {
+	text-align: center;
+}
+body {
+	display: grid;
+	place-content: center;
+}
