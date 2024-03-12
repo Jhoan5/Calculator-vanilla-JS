@@ -1,6 +1,6 @@
 # Calculator-vanilla-JS
 
-![Calculator Image]('calculator.PNG')
+![Calculator Image](calculator.PNG)
 
 ## About
 
